@@ -1,0 +1,12 @@
+{
+  "model": {
+    "model_id": "gemma3:4b",
+    "model_url": "http://localhost:11434",
+    "fence_output": false,
+    "use_schema_constraints": false,
+    "language_model_params": {
+      "timeout": 300
+    }
+  },
+  "error": "Ollama API error: Ollama Model timed out (timeout=300, num_threads=None)"
+}
